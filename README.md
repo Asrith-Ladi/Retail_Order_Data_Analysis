@@ -8,8 +8,8 @@ This repository contains the code and documentation for a data analysis project 
 
 
 ## Project Structure
-- **ODA_ETL.ipynb**: Jupyter Notebook containing the Python code for ETL operations.
-- **ODA_Queries.sql**: SQL queries used for data analysis.
+- **Order_Data_Analysis.ipynb**: Jupyter Notebook containing the Python code for ETL operations.
+- **Order_Data_Analysis.sql**: SQL queries used for data analysis.
 - **Data/**: Directory containing the raw and processed data files.
 
 ## ETL Operations
