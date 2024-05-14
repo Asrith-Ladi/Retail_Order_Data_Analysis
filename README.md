@@ -30,9 +30,9 @@ The following SQL queries were executed against the loaded data:
 
 ## Usage
 To replicate the analysis:
-1. Execute the ETL process using the provided Jupyter Notebook (`ODA_ETL.ipynb`).
+1. Execute the ETL process using the provided Jupyter Notebook (`Order_Data_Analysis.ipynb`).
 2. Load the cleaned data into your preferred database.
-3. Run the SQL queries (`ODA_Queries.sql`) against the loaded data to perform the analysis.
+3. Run the SQL queries (`Order_Data_Analysis.sql`) against the loaded data to perform the analysis.
 
 ## Dependencies
 - Python 3.x
