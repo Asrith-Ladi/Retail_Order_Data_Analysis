@@ -4,7 +4,7 @@
 This repository contains the code and documentation for a data analysis project focusing on [brief description of the project]. The project involves performing Extract, Transform, and Load (ETL) operations on data using Python, specifically leveraging libraries such as pandas and sqlalchemy. Once the data cleaning process is completed, it is loaded into a database for further analysis.
 
 ## FLOW
-![Retail_Order_Data_Analysis](Order_data_Analysis_Flow.jpg)
+![Retail_Order_Data_Analysis](Retail_Order_data_Analysis_Flow.jpg)
 
 
 
